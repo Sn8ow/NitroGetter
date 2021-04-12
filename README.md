@@ -6,4 +6,5 @@ Unlock all screensharing modes, and use cross-server emotes &amp; gif emotes, Di
 https://github.com/BetterDiscord/Installer
 3. Download NitroGetter (In releases)
 2. Go to settings (your profile) > click Plugins > Open plugins folder > goto folder NitroGetter.*** > move file NitroGetter.plugin to folder Plugins
-3. Done !
+3. Restart Discord
+4. Done !
