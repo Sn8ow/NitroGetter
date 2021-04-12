@@ -40,12 +40,6 @@ module.exports = (() => {
             "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! (You CANNOT upload 100MB files though. :/)",
             "github": "https://github.com/Sn8ow/NitroGetter",
             "github_raw": "https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js"
-        {
-            title: "Fix Errors",
-            type: "fixed",
-            items: [
-		"Fixed Add Script (Host)"
-            ]
         },
     ],
         "main": "NitroGetter.plugin.js"
