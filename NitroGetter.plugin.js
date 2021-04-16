@@ -3,6 +3,8 @@
  * @website https://github.com/Sn8ow/NitroGetter
  * @source https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
  * @updateUrl https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
+ * @invite https://discord.gg/TR5XDAAef5
+ * @authorLink https://twitter.com/8owSn
  */
 /*@cc_on
 @if (@_jscript)
