@@ -10,6 +10,5 @@ https://github.com/BetterDiscord/Installer
 4. Restart Discord or CTRL + R
 5. Done !
 
-# Thanks
-For rimeqzxx
+
  
