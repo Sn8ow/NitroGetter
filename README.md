@@ -9,3 +9,7 @@ https://github.com/BetterDiscord/Installer
 3. If you want, you can enable LuaBrary for more tweaks
 4. Restart Discord
 5. Done !
+
+# Thx 
+For rimeqzxx
+ 
