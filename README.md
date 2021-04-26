@@ -9,11 +9,7 @@ Unlock all screensharing modes, and use cross-server emotes &amp; gif emotes, Di
 4. Restart Discord or CTRL + R
 5. Done !
 
-# Changelog
--------------------------------
-Version 1.9.8
-- Fix add plugin
-- Add LuaBrary fix plugin
+
 
 
  
