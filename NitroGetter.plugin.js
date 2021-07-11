@@ -4,7 +4,7 @@
  * @source https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
  * @donate https://paypal.me/pools/c/8yOulvl7hI
  * @updateUrl https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
- * @invite https://discord.gg/TR5XDAAef5
+ * @invite https://discord.gg/duXs9mXqgM
  * @authorLink https://twitter.com/8owSn
  */
 /*@cc_on
@@ -39,7 +39,7 @@ module.exports = (() => {
                 "discord_id": "407348579376693260",
                 "github_username": "respecting"
             }],
-            "version": "2.0.3",
+            "version": "2.0.4",
             "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! (You CANNOT upload 100MB files though. :/)",
             "github": "https://github.com/Sn8ow/NitroGetter",
             "github_raw": "https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js"
