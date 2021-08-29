@@ -4,7 +4,7 @@
  * @source https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
  * @donate https://paypal.me/pools/c/8yOulvl7hI
  * @updateUrl https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
- * @invite https://discord.gg/BU8RcTtDMm
+ * @invite RXtVveQf56
  * @authorLink https://twitter.com/8owSn
  */
 /*@cc_on
