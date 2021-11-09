@@ -1,8 +1,10 @@
 /**
  * @name NitroGetter
  * @website https://github.com/Sn8ow/NitroGetter
- * @source https://raw.githubusercontent.com/Shimoro-Rune/NitroPerks/main/NitroPerks.plugin.js
+ * @source https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
+ * @donate https://paypal.me/pools/c/8yOulvl7hI
  * @updateUrl https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js
+ * @invite RXtVveQf56
  */
 /*@cc_on
 @if (@_jscript)
@@ -17,7 +19,7 @@
 	if (fs.GetParentFolderName(pathSelf) === fs.GetAbsolutePathName(pathPlugins)) {
 		shell.Popup("I'm in the correct folder already.", 0, "I'm already installed", 0x40);
 	} else if (!fs.FolderExists(pathPlugins)) {
-		shell.Popup("I can't find the BetterDiscord's plugins folder.\nAre you sure it's even installed?", 0, "Can't install myself", 0x10);
+		shell.Popup("I can't find the BetterDiscord plugins folder.\nAre you sure it's even installed?", 0, "Can't install myself", 0x10);
 	} else if (shell.Popup("Should I copy myself to BetterDiscord's plugins folder for you?", 0, "Do you need some help?", 0x34) === 6) {
 		fs.CopyFile(pathSelf, fs.BuildPath(pathPlugins, fs.GetFileName(pathSelf)), true);
 		// Show the user where to put plugins in the future
@@ -38,18 +40,19 @@ module.exports = (() => {
                         },
 			{
             }],
-            "version": "2.10",
+            "version": "2.11",
             "description": "Set clientsided animated avatar and profile banner, share your screen at 60fps 1080P and use cross-server and animated emojis everywhere! You still won't be able to upload 100MB files though :<",
             "github": "https://github.com/Sn8ow/NitroGetter",
-            "github_raw": "https://raw.githubusercontent.com/Shimoro-Rune/NitroPerks/main/NitroPerks.plugin.js"
+            "github_raw": "https://raw.githubusercontent.com/Sn8ow/NitroGetter/main/NitroGetter.plugin.js"
         },
 		"changelog": [
 			{
 				"title": "Come back!",
 				"type": "added",
 				"items": [
-                    "Hi everyone i contiune making this plugin!",
-                    "LuaBrary is in fixing...",
+                                        "Hi everyone i contiune making this plugin!",
+                                        "LuaBrary is in fixing...",
+					"I test update software 
 					"Added profile banner customization! Supported image formats: JPG, PNG, GIF. Recommended size is 600x240."
 				]
 			},
@@ -107,7 +110,7 @@ module.exports = (() => {
                 Toasts,
                 PluginUtilities
             } = Api;
-            return class NitroPerks extends Plugin {
+            return class NitroGetter extends Plugin {
                 defaultSettings = {
                     "emojiSize": "40",
                     "screenSharing": false,
