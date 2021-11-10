@@ -10,6 +10,8 @@ Unlock all screensharing modes, and use cross-server emotes &amp; gif emotes, Di
 6. Restart Discord or CTRL + R
 7. Done !
 
+# Changelog
+
 
 
 
